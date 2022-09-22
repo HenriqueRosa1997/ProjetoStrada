@@ -1,5 +1,5 @@
 # Projeto com o objetivo de simular uma página de portifólio
--tecnilogias utilizadas HTML e CSS
+-Tecnologias utilizadas HTML e CSS
 ![Captura de tela de 2022-09-22 17-56-13](https://user-images.githubusercontent.com/53490825/191850113-ec5f004f-77fb-4090-a740-5164204f738e.png)
 ![Captura de tela de 2022-09-22 17-57-33](https://user-images.githubusercontent.com/53490825/191850111-a143f013-3c67-4433-bc46-1f81442a6484.png)
 ![Captura de tela de 2022-09-22 17-57-43](https://user-images.githubusercontent.com/53490825/191850107-a402d35d-1b7c-4ba9-aeff-456bae1e627e.png)
