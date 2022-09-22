@@ -1,11 +1,17 @@
 # Projeto com o objetivo de simular uma página de portifólio
 -tecnilogias utilizadas HTML e CSS
-![Captura de tela de 2022-09-22 17-58-28](https://user-images.githubusercontent.com/53490825/191849891-9585bccf-b5cf-487e-86a6-45424d207c0e.png)
-![Captura de tela de 2022-09-22 17-58-16](https://user-images.githubusercontent.com/53490825/191849893-7a7d217d-6753-484f-b60f-0a5b326f2e3e.png)
-![Captura de tela de 2022-09-22 17-58-04](https://user-images.githubusercontent.com/53490825/191849898-e3ecfed9-8699-4d2c-a4ba-9a0c37f70567.png)
-![Captura de tela de 2022-09-22 17-57-54](https://user-images.githubusercontent.com/53490825/191849905-32a722ad-431d-4bf0-a783-313e45e3fff8.png)
-![Captura de tela de 2022-09-22 17-57-43](https://user-images.githubusercontent.com/53490825/191849908-6336220e-a217-4dec-b942-4a6f64201faa.png)
-![Captura de tela de 2022-09-22 17-57-33](https://user-images.githubusercontent.com/53490825/191849910-3a190601-47a7-41d8-b559-75727dc7ce5a.png)
-![Captura de tela de 2022-09-22 17-56-13](https://user-images.githubusercontent.com/53490825/191849917-4e253b20-a8aa-4b38-bf83-9c56ef18bb60.png)
-![Captura de tela de 2022-09-22 17-58-38](https://user-images.githubusercontent.com/53490825/191849886-416e7fc9-01a8-4966-a01f-bf7d95493a85.png)
+![Captura de tela de 2022-09-22 17-56-13](https://user-images.githubusercontent.com/53490825/191850113-ec5f004f-77fb-4090-a740-5164204f738e.png)
+![Captura de tela de 2022-09-22 17-57-33](https://user-images.githubusercontent.com/53490825/191850111-a143f013-3c67-4433-bc46-1f81442a6484.png)
+![Captura de tela de 2022-09-22 17-57-43](https://user-images.githubusercontent.com/53490825/191850107-a402d35d-1b7c-4ba9-aeff-456bae1e627e.png)
+![Captura de tela de 2022-09-22 17-57-54](https://user-images.githubusercontent.com/53490825/191850102-eef6e3bc-26af-4d3f-87d6-136f8c1e2352.png)
+![Captura de tela de 2022-09-22 17-58-04](https://user-images.githubusercontent.com/53490825/191850100-0b2a5f49-cc6e-4017-8491-217281e14499.png)
+![Captura de tela de 2022-09-22 17-58-16](https://user-images.githubusercontent.com/53490825/191850097-a306291a-aa57-4e53-a8d3-fd0273061e6e.png)
+![Captura de tela de 2022-09-22 17-58-28](https://user-images.githubusercontent.com/53490825/191850094-d4aebac5-9f68-4a63-802d-a2c914b46f9d.png)
+![Captura de tela de 2022-09-22 17-58-38](https://user-images.githubusercontent.com/53490825/191850093-d93f8e56-c7a2-48c3-8ad1-667c2eacf961.png)
+
+
+
+
+
+
 
